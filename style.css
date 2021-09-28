@@ -1,0 +1,43 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+  
+  }
+  
+  body {
+    padding: 0px;
+    border: 0px;
+    margin: 0px;
+  }
+  #global-navegation-bar {
+    margin-inline-start: 40px;
+    margin-inline-end: 40px;
+  }
+  .bbc-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 4px;
+    border-bottom-width: 0.25rem;
+    line-height: 1.4375rem;
+    white-space: nowrap;
+  }
+  
+  .bbc-container li {
+    list-style-type: none;
+  }
+  
+  
+  .bbc-container a {
+    text-decoration: none;
+    color: #3f3f42;
+    font-family: helvetica, arial, sans-serif;
+    font-size: 13px;
+  }
+  
+  .bbc-logo {
+    padding: 4px;
+    height: 31px;
+    width: 84px;
+ }
